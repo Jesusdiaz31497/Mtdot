@@ -1,0 +1,8 @@
+{
+    "target_overrides": {
+        "mts_mdot_f411re": {            
+            "target.printf_lib": "std"
+            
+        }
+    }
+}

@@ -1,0 +1,14 @@
+mbed-os
+.build
+/mdot/
+/mdot-library/
+/BUILD/
+/.git/
+^BUILD$
+^.cache$
+^mbed-os$
+^libmDot-mbed5$
+^.mbed$
+^compile_commands.json$
+^.clangd$
+^examples/lib/DHT$
